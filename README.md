@@ -5,7 +5,7 @@ Welcome to my portfolio, where I showcase my projects in the data field!
 # SQL
 | Project Link | Area | Project Description | 
 |---|---|---|
-|📦 [8 Week SQL Challenge](https://github.com/jchen03/online-retail/blob/main/Online-Retail.ipynb)|Data analysis, Data Transformation|This repo contains the solution to the 8 Week SQL challenge|
+|📦 [8 Week SQL Challenge](https://github.com/jchen03/8WeekSQLChallenge)|Data analysis, Data Transformation|This repo contains the solution to the 8 Week SQL challenge|
 
 # Python
 | Project Link | Area | Project Description | Libraries |    
